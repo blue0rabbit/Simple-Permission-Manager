@@ -1,0 +1,29 @@
+<resources>
+    <string-array name="dangarray">
+        <item>WRITE_CALENDAR</item>
+        <item>CAMERA</item>
+        <item>READ_CONTACTS</item>
+        <item>WRITE_CONTACTS</item>
+        <item>GET_ACCOUNTS</item>
+        <item>ACCESS_FINE_LOCATION</item>
+        <item>ACCESS_COARSE_LOCATION</item>
+        <item>RECORD_AUDIO</item>
+        <item>READ_PHONE_STATE</item>
+        <item>CALL_PHONE</item>
+        <item>READ_CALL_LOG</item>
+        <item>WRITE_CALL_LOG</item>
+        <item>ADD_VOICEMAIL</item>
+        <item>USE_SIP</item>
+        <item>PROCESS_OUTGOING_CALLS</item>
+        <item>BODY_SENSORS</item>
+        <item>SEND_SMS</item>
+        <item>RECEIVE_SMS</item>
+        <item>READ_SMS</item>
+        <item>RECEIVE_WAP_PUSH</item>
+        <item>RECEIVE_MMS</item>
+        <item>READ_EXTERNAL_STORAGE</item>
+        <item>WRITE_EXTERNAL_STORAGE</item>
+
+        <item>READ_CALENDAR</item>
+    </string-array>
+</resources>
